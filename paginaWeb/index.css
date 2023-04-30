@@ -1,0 +1,33 @@
+*{
+  margin: 0;  
+}
+
+#contenedorHeader{
+    margin: 2rem;
+    display: flex;
+    text-align: right;
+}
+
+body{
+    background-color: rgb(218, 181, 134);
+}
+
+h1{
+    text-align: center;
+    font-size: 7rem;
+}
+
+.contenedorFooter{
+    display: flex;
+    color: white;
+}
+
+#pfooter{
+    color: white;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+
+}
